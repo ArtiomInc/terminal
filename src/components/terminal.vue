@@ -1,5 +1,4 @@
 <script lang="ts">
-import { ref, provide } from 'vue'
 export default {
   data() {
     return {

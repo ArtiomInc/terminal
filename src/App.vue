@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import terminal from './components/terminal.vue'
 </script>
 
@@ -6,6 +6,5 @@ import terminal from './components/terminal.vue'
   <terminal/>
 </template>
 
-<style>
-
+<style scoped>
 </style>
